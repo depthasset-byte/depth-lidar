@@ -1,0 +1,11 @@
+node_modules/
+dist/
+dist-cli/
+release/
+.tools/
+.claude/
+selftest-out/
+selftest-*.log
+_bak_*/
+*.bak
+*.log
